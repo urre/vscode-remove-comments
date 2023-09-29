@@ -1,4 +1,4 @@
-# My Custom Extension
+# Remove Comments
 
 A Visual Studio Code extension that removes comments and blank lines.
 
