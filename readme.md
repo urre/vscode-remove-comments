@@ -11,8 +11,7 @@ A Visual Studio Code extension that removes comments and blank lines.
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view (`Ctrl+Shift+X`).
-3. Search for "My Custom Extension" and install it.
-4. Alternatively, you can install it from the Visual Studio Code marketplace.
+3. Install from .vsix, select the file in the root of this repo
 
 ## Usage
 
