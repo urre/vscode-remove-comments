@@ -1,0 +1,26 @@
+{
+  "name": "remove-comments",
+  "displayName": "Remove Comments",
+  "description": "A custom extension for removing comments and blank lines",
+  "version": "1.1.0",
+  "publisher": "urbansanden",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Other"],
+  "main": "./extension.js",
+  "activationEvents": ["onCommand:extension.removeComments"],
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.removeComments",
+        "title": "Remove Comments"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urre/vscode-remove-css-comments.git"
+  },
+  "readme": "README.md"
+}
